@@ -14,7 +14,7 @@ backports-entry-points-selectable==1.1.1
     #   virtualenv
 bok-choy==1.1.1
     # via -r test.txt
-certifi==2022.12.7
+certifi==2023.7.22
     # via
     #   -r test.txt
     #   requests
