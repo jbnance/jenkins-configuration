@@ -34,7 +34,7 @@ pytz==2021.3
     # via jenkinsapi
 pyyaml==6.0
     # via -r test.in
-requests==2.26.0
+requests==2.31.0
     # via
     #   -r test.in
     #   jenkinsapi
