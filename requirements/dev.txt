@@ -35,7 +35,7 @@ filelock==3.4.0
     #   -r ci.txt
     #   tox
     #   virtualenv
-idna==3.3
+idna==3.7
     # via
     #   -r test.txt
     #   requests
