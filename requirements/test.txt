@@ -48,7 +48,7 @@ six==1.16.0
     #   jenkinsapi
 toml==0.10.2
     # via pytest
-urllib3==1.26.18
+urllib3==1.26.19
     # via
     #   requests
     #   selenium
